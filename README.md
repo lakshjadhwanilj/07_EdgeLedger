@@ -1,6 +1,7 @@
 # EdgeLedger
 A Company Website with a single landing page.<br /> 
 Built using HTML5 and CSS3 Flexbox. 
+![picture alt](https://github.com/lakshjadhwanilj/EdgeLedger/blob/master/Screenshot.png)
 # Steps to execute:
 
    * Download the entire code
@@ -9,4 +10,4 @@ Built using HTML5 and CSS3 Flexbox.
 # Technologies used:
 
    * HTML
-   * CSS 
+   * CSS Flexbox
